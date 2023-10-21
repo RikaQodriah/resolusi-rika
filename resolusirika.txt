@@ -1,4 +1,5 @@
 //resolusi rika tahun ini
 - konsisten belajar front end
 - membuat suatu project
-- menjadi frelancer
+- belajar javascript
+- belajar react
