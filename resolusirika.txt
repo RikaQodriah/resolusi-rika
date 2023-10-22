@@ -3,5 +3,6 @@
 - menjadi frelancer
 - belajar react
 - belajar angular
+- konsisten
 - belajar mengalaj demi kabaikan
 
