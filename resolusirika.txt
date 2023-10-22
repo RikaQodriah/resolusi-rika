@@ -3,3 +3,4 @@
 - membuat suatu project
 - belajar javascript
 - belajar react
+- konsisten
