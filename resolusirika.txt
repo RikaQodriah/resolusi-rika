@@ -2,7 +2,6 @@
 - konsisten belajar front end
 - menjadi frelancer
 - belajar react
-- belajar angular
 - konsisten
+- belajar angular
 - belajar mengalaj demi kabaikan
-
